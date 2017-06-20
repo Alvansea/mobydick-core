@@ -1,0 +1,26 @@
+{
+  "name": "mobydick-core",
+  "version": "1.0.0",
+  "description": "core lib of mobydick framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvansea/mobydick-core.git"
+  },
+  "keywords": [
+    "mvc",
+    "nodejs"
+  ],
+  "author": "alvansea@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alvansea/mobydick-core/issues"
+  },
+  "homepage": "https://github.com/Alvansea/mobydick-core#readme",
+  "directories": {
+    "test": "test"
+  }
+}
