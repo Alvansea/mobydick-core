@@ -1,2 +1,2 @@
-# mobydick-core
-mobydick core lib
+# mobydick-util
+mobydick util library
